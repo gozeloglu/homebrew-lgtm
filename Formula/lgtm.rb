@@ -1,4 +1,5 @@
-class lgtm < Formula
+require "UTF-8"
+class Lgtm < Formula
 	desc "A simple tool for copying LGTM fancy text to your clipboard.
 	homepage "https://github.com/gozeloglu/lgtm"
 	url "https://github.com/gozeloglu/lgtm/releases/latest/download/lgtm-mac.tar.gz"
